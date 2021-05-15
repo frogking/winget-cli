@@ -659,7 +659,7 @@ Sie können über die Einstellungsdatei „winget settings“ konfiguriert werde
     <value>Es wurden keine anwendbaren Aktualisierungen gefunden.</value>
   </data>
   <data name="UpgradeCommandLongDescription" xml:space="preserve">
-    <value>Aktualisiert das ausgewählte Paket, das entweder durch Suchen der Liste der installierten Pakete oder direkt aus einem Manifest gefunden wurde. Standard mäßig muss die Abfrage Groß-insensitively mit der ID, dem Namen oder dem Moniker des Pakets überein stimmen. Andere Felder können verwendet werden, indem Sie Ihre entsprechende Option übergeben.</value>
+    <value>Aktualisiert das ausgewählte Paket, das entweder durch Suchen in der Liste der installierten Pakete oder direkt aus einem Manifest gefunden wurde. Standardmäßig muss die Abfrage, unter Nichtbeachtung der Groß- und Kleinschreibung, mit der ID, dem Namen oder dem Moniker des Pakets übereinstimmen. Andere Felder können verwendet werden, indem Sie Ihre entsprechende Option übergeben.</value>
     <comment>id, name, and moniker are all named values in our context, and may benefit from not being translated.</comment>
   </data>
   <data name="UpgradeCommandShortDescription" xml:space="preserve">
